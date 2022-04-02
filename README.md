@@ -1,1 +1,1 @@
-"# server-for-mine" 
+# server-for-mine это форк одного проекта
